@@ -1,4 +1,4 @@
-import Divide from 'src/js/component2.js';
+import { Divide } from 'src/library';
 
 describe('component2', () => {
 

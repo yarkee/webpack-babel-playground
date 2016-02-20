@@ -1,4 +1,4 @@
-import Multiply from 'src/js/component1';
+import { Multiply } from 'src/library';
 
 describe('component1', () => {
 
